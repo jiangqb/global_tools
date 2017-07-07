@@ -1,0 +1,12 @@
+## General
+*.tar
+*.gz
+*.tgz
+*.mat
+.~*
+*.rar
+*.rar
+*.txt
+*.jpg
+*.png
+*.dat
